@@ -89,7 +89,7 @@ pkg install python -y
 git clone https://github.com/Zeonexploiter/ZEON__CAMERAHACKING.git
 cd ZEONCAMERAHACKING
 pip install -r requirements.txt
-python coding.py.py
+python coding.py
 ```
 
 💻 Linux / Windows
