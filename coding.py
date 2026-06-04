@@ -14,8 +14,8 @@ from datetime import datetime
 from flask import Flask, request, render_template_string, send_file, jsonify
 
 # ==================== CONFIGURATION ====================
-TELEGRAM_BOT_TOKEN = "8728608959:AAFXaATr4gIPa40lDZ3kzkHZs8ezymj2cWg"
-TELEGRAM_CHAT_ID = "7398123088"
+TELEGRAM_BOT_TOKEN = "ENTER YOUR BOT TOKEN HERE"
+TELEGRAM_CHAT_ID = "1234567890"
 
 app = Flask(__name__)
 
